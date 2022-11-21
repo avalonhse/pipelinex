@@ -1,0 +1,2 @@
+numpy
+flatten-dict>=0.3.0

@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: pipelinex
+Version: 0.7.6
+Summary: PipelineX: Python package to build ML pipelines for experimentation with Kedro, MLflow, and more
+Home-page: https://github.com/Minyus/pipelinex
+Author: Yusuke Minami
+Author-email: me@minyus.github.com
+License: Apache Software License (Apache 2.0)
+Keywords: pipelines,machine learning,deep learning,data science,data engineering
+Classifier: Development Status :: 3 - Alpha
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Provides-Extra: optional
+Provides-Extra: docs
+Provides-Extra: dev
+License-File: LICENSE
+
+
+# PipelineX
+
+GitHub Repository:
+https://github.com/Minyus/pipelinex
+
+Documentation:
+https://pipelinex.readthedocs.io/
